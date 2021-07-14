@@ -1,6 +1,6 @@
 {
-    "name": "secrets.js-grempe",
-    "version": "2.0.0",
+    "name": "@skyekiwi/secrets",
+    "version": "2.0.1",
     "description": "Shamir's threshold secret sharing scheme for JavaScript.",
     "main": "secrets.js",
     "directories": {
@@ -38,12 +38,13 @@
     ],
     "author": "Alexander Stetsyuk <alexstets@gmail.com>",
     "contributors": [
-        "Glenn Rempe <glenn@rempe.us>"
+        "Glenn Rempe <glenn@rempe.us>",
+        "SkyeKiwi <hello@skye.kiwi>"
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/grempe/secrets.js/issues"
+        "url": "https://github.com/skyekiwi/secrets.js/issues"
     },
-    "homepage": "https://github.com/grempe/secrets.js",
+    "homepage": "https://github.com/skyekiwi/secrets.js",
     "typings": "./secrets.js.d.ts"
 }
